@@ -7,7 +7,7 @@
 </head>
 <body>
     
-<h2> Data Mahasiswax </h2>
+<h2> Data Mahasiswaxxxxxxx </h2>
 <table border="1">
 <thead>
     <tr>
